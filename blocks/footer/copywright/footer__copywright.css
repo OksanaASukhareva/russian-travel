@@ -1,0 +1,17 @@
+.footer__copywright{
+    align-items:flex-end;
+    
+}
+
+
+
+.footer__copywright{
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.1;
+/* identical to box height, or 114% */
+text-align: right;
+color: #FFFFFF;
+}

@@ -1,0 +1,7 @@
+
+@import url(./__content/page__content.css);
+.page{
+    min-width:320px;
+    background-color: #2A2C2F;
+    margin:0;
+}
