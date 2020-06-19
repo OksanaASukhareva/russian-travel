@@ -2,14 +2,11 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__link/cover__link.css);
-.cover{ 
+.cover {
     margin-left:48px;
     margin-right:48px;
     margin-top:92px; 
-    box-sizing: border-box; 
-    display:flex;   
-} 
-
+  }
 @media screen and (max-width: 1025px){
     .cover{
         margin-left:0px;

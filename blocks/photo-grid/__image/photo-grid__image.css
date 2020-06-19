@@ -4,10 +4,3 @@
     object-fit:cover;
     display:block;    
 }
-/*
-@media screen and (max-width: 1023px){
-    .photo-grid__image{
-        width:352px;
-        /*height:264px;
-    } 
-}*/
