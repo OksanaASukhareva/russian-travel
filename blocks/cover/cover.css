@@ -3,32 +3,27 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
 .cover{
-    display:flex;
-    
+    position: relative;
     justify-content: center;
-     margin-left:48px;
- margin-right:48px;
- margin-top:92px; 
- max-height:740px;
-
- position: relative;
+    margin-left:48px;
+    margin-right:48px;
+    margin-top:92px; 
+    max-height:740px;
+    display:flex;
 } 
-
 @media screen and (max-width: 1025px){
     .cover{
         margin-left:0px;
         margin-right:0px;
     } 
 }
-
 @media screen and (max-width: 800px){
     .cover{
-    margin-top:88px;
+        margin-top:88px;
+    }
 }
-}
-
 @media screen and (max-width:600px){
     .cover{
-    margin-top:64px;
+        margin-top:64px;
     } 
 }

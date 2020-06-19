@@ -5,8 +5,7 @@
 @media screen and (max-width: 767px){
     .footer__column_content_links{
         display:flex;
-        flex-direction: column;
-        
+        flex-direction: column;        
     }
-    }
+}
     

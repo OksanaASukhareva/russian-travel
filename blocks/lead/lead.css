@@ -4,27 +4,24 @@
 @import url(./__caption/lead__caption.css);
 .lead{
     /*max-width: 984px;*/
-    margin-top: 56px;
-    
+    margin-top: 56px;    
     display:flex;
     flex-direction: column;
     /*min-height: 1005px;*/
     margin-left:148px;
     margin-right:148px;
-    }
-    
-    @media screen and (max-width: 1025px) {
-        .lead{
-            margin-left:48px;
-            margin-right:48px; 
-            margin-top: 48px;   
-        }   
-    }
-    
-    @media screen and (max-width: 800px) {
-        .lead{
-            margin-left:0px;
-            margin-right:0px;         
-        }   
-    }
+}    
+@media screen and (max-width: 1025px) {
+    .lead{
+        margin-left:48px;
+         margin-right:48px; 
+        margin-top: 48px;   
+    }   
+}    
+@media screen and (max-width: 800px) {
+    .lead{
+        margin-left:0px;
+        margin-right:0px;         
+    }   
+}
     

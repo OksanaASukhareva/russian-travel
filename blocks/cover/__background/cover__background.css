@@ -9,8 +9,9 @@
     align-items: center;
     opacity:70%;
     box-sizing:border-box;
-    }
+}
     
-    .cover__background:hover{
-       opacity:20%;
-    }
+.cover__background:hover{
+    opacity:20%;
+}
+

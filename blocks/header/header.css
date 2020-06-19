@@ -4,8 +4,7 @@
 @import url(./__lang-link/_lang/header__lang-link_lang_ru.css);
 .header{  
     display:flex;
-    justify-content: space-between;
-    
+    justify-content: space-between;    
     padding-left: 48px;
     padding-right: 48px;    
     padding-top: 28px;   

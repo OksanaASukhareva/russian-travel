@@ -4,7 +4,7 @@
     margin-left:auto;
     color: #FFFFFF;
     text-decoration: underline;
-    }
-    .header__lang-link_lang_ru:hover{
-        opacity:50%;
-    }
+}
+.header__lang-link_lang_ru:hover{
+    opacity:50%;
+}

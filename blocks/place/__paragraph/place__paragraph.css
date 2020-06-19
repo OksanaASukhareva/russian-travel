@@ -9,21 +9,16 @@
     grid-area: paragraph;   
     color: #FFFFFF;
 }
-
 @media screen and (max-width:900px){
     .place__paragraph{
-font-size: 16px;
-line-height: 1.6;
-margin-bottom:24px;
+        font-size: 16px;
+        line-height: 1.6;
+        margin-bottom:24px;
     }
 }
 @media screen and (max-width:400px){
     .place__paragraph{
         margin-left:16px;
         margin-right:16px;
-
-
-
-
     }
 }
