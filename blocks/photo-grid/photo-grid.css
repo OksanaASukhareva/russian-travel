@@ -4,7 +4,6 @@
     grid-template-columns: repeat(4, 1fr);    
     grid-template-rows: repeat(3, 1fr);
     grid-gap: 16px;    
-    /*height: 671px;*/
     padding-left: 48px;
     padding-right:48px;
     padding-top:92px;
@@ -14,7 +13,6 @@
        grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(4, 1fr); 
         grid-gap: 14px;
-        max-height:942px;
     } 
 }
 @media screen and (max-width: 770px){
@@ -25,7 +23,6 @@
         padding-left: 24px;
         padding-right:24px;
         padding-top:88px;
-        max-height:1664px;
     } 
 }
 @media screen and (max-width:380px){
@@ -36,6 +33,5 @@
         padding-left: 16px;
         padding-right:16px;
         padding-top:64px;
-        max-height:100%;
     } 
 }
